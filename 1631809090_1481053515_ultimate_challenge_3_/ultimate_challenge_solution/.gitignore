@@ -1,0 +1,5 @@
+# Raw data - keep out of version control (large files; challenge also asks to
+# delete ultimate_data_challenge.json once the analysis is done)
+data/
+.ipynb_checkpoints/
+__pycache__/
